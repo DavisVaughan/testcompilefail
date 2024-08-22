@@ -1,0 +1,16 @@
+^testcompilefail\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^\.travis\.yml$
+^README\.Rmd$
+^codecov\.yml$
+^\.covrignore$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^appveyor\.yml$
+^\.github$
+^cran-comments\.md$
+^CRAN-RELEASE$
+^tools$
+^CRAN-SUBMISSION$
